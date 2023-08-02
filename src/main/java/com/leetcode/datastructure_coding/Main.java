@@ -1,4 +1,4 @@
-package com.leetcode.dsa;
+package com.leetcode.datastructure_coding;
 
 public class Main {
     public static void main(String[] args) {
